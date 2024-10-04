@@ -1,0 +1,7 @@
+C:\Users\siposz\Gitwork\Penztar\obj\Debug\Penztar.csproj.AssemblyReference.cache
+C:\Users\siposz\Gitwork\Penztar\obj\Debug\Penztar.csproj.CoreCompileInputs.cache
+C:\Users\siposz\Gitwork\Penztar\bin\Debug\Penztar.exe.config
+C:\Users\siposz\Gitwork\Penztar\bin\Debug\Penztar.exe
+C:\Users\siposz\Gitwork\Penztar\bin\Debug\Penztar.pdb
+C:\Users\siposz\Gitwork\Penztar\obj\Debug\Penztar.exe
+C:\Users\siposz\Gitwork\Penztar\obj\Debug\Penztar.pdb
